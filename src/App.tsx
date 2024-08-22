@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Hallo, ich bin Mitr Joshi und 21 Jahre alt. Ich bin 6,1 groß</h1>
+      <h1>Hallo, ich bin Mitr Joshi und 21 Jahre alt.</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
